@@ -1,3 +1,8 @@
+
+html, body {
+  font-family: "Montserrat", sans-serif;
+}
+
 :root {
   --Dark-Green: #051F20;
   --Phthalo-Green: #0B2B26;
